@@ -1,0 +1,6 @@
+log/*.log
+*.log
+*.tmp
+*.pid
+*.conf
+conf/*
